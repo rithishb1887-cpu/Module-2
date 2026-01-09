@@ -16,6 +16,7 @@ print(b)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b7bff187-a9d7-456c-a4c8-47c4c853f635" />
+
 
 ## Result
